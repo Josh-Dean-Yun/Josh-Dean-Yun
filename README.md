@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 🙋‍♂️
+I'm currently learning how to code on Python and use it for ML! 🤓
 
 <!--
 **Josh-Dean-Yun/Josh-Dean-Yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
